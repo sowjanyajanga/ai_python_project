@@ -1,0 +1,2 @@
+dialogflow==0.5.1
+google-api-core==1.4.1
