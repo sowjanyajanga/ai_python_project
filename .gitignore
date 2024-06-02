@@ -2,6 +2,7 @@ __pycache__
 .idea
 .DS_store
 
+
 # Large files to check in
 GoogleNews-vectors-negative300.bin
 qa_Electronics.json
