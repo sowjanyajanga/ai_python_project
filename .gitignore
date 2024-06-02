@@ -1,7 +1,7 @@
 __pycache__
 .idea
 .DS_store
-
+superwised_learning/classification_and_regression/income_predictor/data
 
 # Large files to check in
 GoogleNews-vectors-negative300.bin
