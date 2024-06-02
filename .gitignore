@@ -1,0 +1,6 @@
+__pycache__
+
+
+# Large files to check in
+GoogleNews-vectors-negative300.bin
+qa_Electronics.json
