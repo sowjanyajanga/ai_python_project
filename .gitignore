@@ -1,9 +1,13 @@
 __pycache__
 .idea
 .DS_store
-superwised_learning/classification_and_regression/income_predictor/data
 .run
+
 
 # Large files to check in
 GoogleNews-vectors-negative300.bin
 qa_Electronics.json
+
+superwised_learning/classification_and_regression/income_predictor/data
+training_images
+
